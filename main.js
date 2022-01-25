@@ -108,6 +108,9 @@ const App = () => {
       delay).
 
 
+      prin
+
+
       to(
       indicatorRef.current,
       { duration: checkboxDuration, x: '0%' },

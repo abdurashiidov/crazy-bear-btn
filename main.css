@@ -2,3 +2,6 @@
     box-sizing: border-box;
     background: #947cb0;
 }
+body{
+    align-items: center;
+}

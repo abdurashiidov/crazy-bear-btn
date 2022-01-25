@@ -52,14 +52,7 @@ const {
   
     useEffect(() => {
       const grabBearTL = () => {
-        /**
-         * Different height translations for the bear elements
-         *
-         * Paw will go to scaleX 0.8
-         * Arm scaleX goes down to 0.7
-         * Arm wrap translates to 50% or 50px
-         * Bear goes 100% -> 40% -> 0
-         */
+
         let bearTranslation
         if (count > armLimit && count < headLimit) {
           bearTranslation = '40%'

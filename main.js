@@ -107,6 +107,7 @@ const App = () => {
 
       delay).
 
+
       to(
       indicatorRef.current,
       { duration: checkboxDuration, x: '0%' },

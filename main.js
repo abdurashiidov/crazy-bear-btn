@@ -17,6 +17,7 @@ const bearDuration = 0.25;
 const checkboxDuration = 0.25;
 const pawDuration = 0.1;
 
+
 const SOUNDS = {
   ON: new Audio('https://assets.codepen.io/605876/switch-on.mp3'),
   OFF: new Audio('https://assets.codepen.io/605876/switch-off.mp3'),

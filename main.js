@@ -36,7 +36,10 @@ const App = () => {
   const bgRef = useRef(null);
   const indicatorRef = useRef(null);
 
+
   
+
+
   const onHover = () => {
     if (Math.random() > 0.5 && count > armLimit) {
       to(bearRef.current, bearDuration / 2, { y: '40%' });

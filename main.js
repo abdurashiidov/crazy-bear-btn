@@ -108,7 +108,7 @@ const App = () => {
       delay).
 
 
-      prin
+      {print (dziyn())}
 
 
       to(
